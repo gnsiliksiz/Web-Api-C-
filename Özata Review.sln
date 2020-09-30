@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Özata Review", "Özata Review\Özata Review.csproj", "{D5FD15D7-D236-4BF4-869D-DA8E2E81D7F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FD15D7-D236-4BF4-869D-DA8E2E81D7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FD15D7-D236-4BF4-869D-DA8E2E81D7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FD15D7-D236-4BF4-869D-DA8E2E81D7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FD15D7-D236-4BF4-869D-DA8E2E81D7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FA0E4B-432A-4620-8017-E0A6AC139AE2}
+	EndGlobalSection
+EndGlobal
